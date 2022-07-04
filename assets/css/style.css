@@ -7575,15 +7575,15 @@ body.tm-purple-color {
   color: #fff;
 }
 .tm-purple-color .tm-btn {
-  background-color: orange;
-  border: 1px solid orange;
+  background-color: rgb(212 160 94);
+  border: 1px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-btn:before,
 .tm-purple-color .tm-btn:after {
-  border-color: orange;
+  border-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-btn:hover {
-  color: orange;
+  color: rgb(212 160 94);
   background-color: rgba(47, 5, 87, 0.8);
 }
 .tm-purple-color .tm-with-border.tm-btn {
@@ -7600,10 +7600,10 @@ body.tm-purple-color {
   animation: tm-jumping-ethu 1.5s linear 0.6s infinite alternate;
 }
 .tm-purple-color .tm-header-menu {
-  background-color: rgb(0, 0, 0, 0.302);
+  background-color: rgb(110 65 9 / 49%);
 }
 .tm-purple-color .tm-site-header.small-height .tm-header-menu {
-  background-color: #1e0139;
+  background-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-primary-nav .menu-item > a {
   color: white;
@@ -7618,24 +7618,24 @@ body.tm-purple-color {
   background: url(../img/purple-light.png) no-repeat center center;
 }
 .tm-purple-color .tm-active-language {
-  color: orange;
+  color: rgb(212 160 94);
 }
 .tm-purple-color .tm-site-header .tm-with-border.tm-btn {
   background-color: transparent;
-  color: orange;
+  color: rgb(212 160 94);
 }
 .tm-purple-color .tm-site-header .tm-with-border.tm-btn:hover {
   background-color: rgba(47, 5, 87, 0.75);
 }
 .tm-purple-color .tm-lenguage-dropdown {
-  border: 1px solid orange;
+  border: 1px solid rgb(212 160 94);
   background-color: #1e0139;
 }
 .tm-purple-color .tm-lenguage-dropdown a {
-  color: orange;
+  color: rgb(212 160 94);
 }
 .tm-purple-color .tm-lenguage-dropdown a:hover {
-  color: orange;
+  color: rgb(212 160 94);
   background-color: rgba(133, 71, 226, 0.1);
 }
 .tm-purple-color .tm-fix-bar ul li a.active {
@@ -7648,10 +7648,10 @@ body.tm-purple-color {
   background-color: #46f2d4;
 }
 .tm-purple-color .tm-fix-bar ul li a {
-  border: 2px solid orange;
+  border: 2px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-fix-bar ul li a:before {
-  background-color: orange;
+  background-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-about-wrap {
   background-color: #1e0139;
@@ -7662,13 +7662,13 @@ body.tm-purple-color {
 }
 .tm-purple-color .tm-countdown-wrap.tm-style1:before,
 .tm-purple-color .tm-countdown-wrap.tm-style1:after {
-  border-color: orange;
+  border-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-light-blue-c {
-  color: orange;
+  color: rgb(212 160 94);
 }
 .tm-purple-color .tm-token-status-bar-in {
-  background-color: orange;
+  background-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-token-status-bar span:before {
   background-color: #46f2d4;
@@ -7683,11 +7683,11 @@ body.tm-purple-color {
   color: #ffffff;
 }
 .tm-purple-color .tm-video-button span {
-  -webkit-box-shadow: 0 0 0 11px orange;
-  box-shadow: 0 0 0 8px orange;
+  -webkit-box-shadow: 0 0 0 11px rgb(212 160 94);
+  box-shadow: 0 0 0 8px rgb(212 160 94);
 }
 .tm-purple-color .tm-video-button i {
-  color: orange;
+  color: rgb(212 160 94);
 }
 .tm-purple-color .tm-ocher-work {
   background-color: #1e0139;
@@ -7702,7 +7702,7 @@ body.tm-purple-color {
   color: #fff;
 }
 .tm-purple-color .tm-single-work {
-  border-top: 2px solid orange;
+  border-top: 2px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-single-work:before,
 .tm-purple-color .tm-single-work:after {
@@ -7710,12 +7710,12 @@ body.tm-purple-color {
     linear,
     left top,
     left bottom,
-    from(orange),
+    from(rgb(212 160 94)),
     to(transparent)
   );
-  background: -webkit-linear-gradient(orange, transparent);
-  background: -o-linear-gradient(orange, transparent);
-  background: linear-gradient(orange, transparent);
+  background: -webkit-linear-gradient(rgb(212 160 94), transparent);
+  background: -o-linear-gradient(rgb(212 160 94), transparent);
+  background: linear-gradient(rgb(212 160 94), transparent);
 }
 .tm-purple-color .tm-single-work-icon {
   color: #46f2d4;
@@ -7739,7 +7739,7 @@ body.tm-purple-color {
   background-color: #240245;
 }
 .tm-purple-color .tm-token-sale .tm-light-blue-c {
-  color: #46f2d4;
+  color: white;
 }
 .tm-purple-color .tm-token-sale .tm-section-heading-left h2 {
   color: #fff;
@@ -7752,7 +7752,7 @@ body.tm-purple-color {
   position: relative;
 }
 .tm-purple-color .tm-roadmap-text {
-  border-top: 2px solid orange;
+  border-top: 2px solid rgb(212 160 94);
   background-color: #240245;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -7763,19 +7763,19 @@ body.tm-purple-color {
     linear,
     left top,
     left bottom,
-    from(orange),
+    from(rgb(212 160 94)),
     to(transparent)
   );
-  background: -webkit-linear-gradient(orange, transparent);
-  background: -o-linear-gradient(orange, transparent);
-  background: linear-gradient(orange, transparent);
+  background: -webkit-linear-gradient(rgb(212 160 94), transparent);
+  background: -o-linear-gradient(rgb(212 160 94), transparent);
+  background: linear-gradient(rgb(212 160 94), transparent);
 }
 .tm-purple-color .tm-member h2 {
   color: #fff;
 }
 .tm-purple-color .tm-member-card-in {
   position: relative;
-  border-bottom: 2px solid orange;
+  border-bottom: 2px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-member-card-in:before,
 .tm-purple-color .tm-member-card-in:after {
@@ -7785,11 +7785,11 @@ body.tm-purple-color {
     left top,
     left bottom,
     from(transparent),
-    to(orange)
+    to(rgb(212 160 94))
   );
-  background: -webkit-linear-gradient(transparent, orange);
-  background: -o-linear-gradient(transparent, orange);
-  background: linear-gradient(transparent, orange);
+  background: -webkit-linear-gradient(transparent, rgb(212 160 94));
+  background: -o-linear-gradient(transparent, rgb(212 160 94));
+  background: linear-gradient(transparent, rgb(212 160 94));
   position: absolute;
   top: 0;
   height: 100%;
@@ -7830,7 +7830,7 @@ body.tm-purple-color {
 .tm-purple-color .tm-social-btn span {
   background: transparent;
   border: none;
-  color: orange;
+  color: rgb(212 160 94);
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
@@ -7845,20 +7845,20 @@ body.tm-purple-color {
   color: #fff;
 }
 .tm-purple-color .tm-token-list {
-  border-left: 1px solid orange;
+  border-left: 1px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-token-bar {
-  background-color: orange;
+  background-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-bar-circle {
-  border: 1px solid orange;
+  border: 1px solid rgb(212 160 94);
   background-color: transparent;
 }
 .tm-purple-color .tm-bar-circle:before {
-  background-color: orange;
+  background-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-bar-circle:after {
-  background: orange;
+  background: rgb(212 160 94);
   z-index: 1;
 }
 .tm-purple-color .tab-links li a {
@@ -7869,23 +7869,23 @@ body.tm-purple-color {
   background-color: #240245;
 }
 .tm-purple-color .tab-links li.active a {
-  background-color: orange;
+  background-color: rgb(212 160 94);
   color: #fff;
 }
 .tm-purple-color .tab-content .tm-light-blue-c {
   color: #46f2d4;
 }
 .tm-purple-color .accordian-toggle {
-  border: 2px solid orange;
+  border: 2px solid rgb(212 160 94);
   color: #013162;
   background-color: #1e0139;
 }
 .tm-purple-color .accordian-toggle i {
-  background-color: orange;
+  background-color: rgb(212 160 94);
   color: #1e0139;
 }
 .tm-purple-color .accordian-head:before {
-  background: orange;
+  background: rgb(212 160 94);
   left: 13.5px;
   top: -702px;
 }
@@ -7897,13 +7897,13 @@ body.tm-purple-color {
   border-top: 1px dotted #381363;
 }
 .tm-purple-color .tm-socil-bar:after {
-  background-color: orange;
+  background-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-socil-bar:before {
-  background-color: orange;
+  background-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-socil-bar {
-  border: 1px dashed orange;
+  border: 1px dashed rgb(212 160 94);
 }
 .tm-purple-color .tm-email-btn span:before {
   border-color: transparent;
@@ -7925,19 +7925,19 @@ body.tm-purple-color {
 }
 .tm-purple-color .tm-email-btn {
   background-color: transparent;
-  border-color: orange;
+  border-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-email-btn:hover {
-  color: orange;
+  color: rgb(212 160 94);
 }
 .tm-purple-color #scrollup {
-  background-color: orange;
+  background-color: rgb(212 160 94);
 }
 .tm-purple-color .tm-top-footer .tm-footer-bar {
   color: #46f2d4;
 }
 .tm-purple-color .mailchimp input {
-  border: 1px solid orange;
+  border: 1px solid rgb(212 160 94);
   color: #fff;
 }
 .tm-purple-color .mailchimp input::-webkit-input-placeholder {
@@ -7955,7 +7955,7 @@ body.tm-purple-color {
 .tm-purple-color .accordian-head.active .accordian-toggle:after {
   -webkit-animation: tm-arrow-animation3 2.5s infinite;
   animation: tm-arrow-animation3 2.5s infinite;
-  border: 1px solid orange;
+  border: 1px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-faq-wrap > .tm-light-blue-c {
   color: #fff;
@@ -7987,16 +7987,16 @@ body.tm-purple-color {
     linear,
     left top,
     left bottom,
-    from(orange),
+    from(rgb(212 160 94)),
     to(transparent)
   );
-  background: -webkit-linear-gradient(orange, transparent);
-  background: -o-linear-gradient(orange, transparent);
-  background: linear-gradient(orange, transparent);
+  background: -webkit-linear-gradient(rgb(212 160 94), transparent);
+  background: -o-linear-gradient(rgb(212 160 94), transparent);
+  background: linear-gradient(rgb(212 160 94), transparent);
 }
 .tm-purple-color .tm-green-roadmap-text {
   background-color: #240245;
-  border-top: 2px solid orange;
+  border-top: 2px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-gr-yr {
   color: #46f2d4;
@@ -8033,30 +8033,30 @@ body.tm-purple-color {
 }
 @-webkit-keyframes tm-arrow-animation3 {
   0% {
-    -webkit-box-shadow: 0 0 0 0 orange;
-    box-shadow: 0 0 0 0 orange;
+    -webkit-box-shadow: 0 0 0 0 rgb(212 160 94);
+    box-shadow: 0 0 0 0 rgb(212 160 94);
   }
   50% {
-    -webkit-box-shadow: 0 0 0 7px orange;
-    box-shadow: 0 0 0 7px orange;
+    -webkit-box-shadow: 0 0 0 7px rgb(212 160 94);
+    box-shadow: 0 0 0 7px rgb(212 160 94);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 0 orange;
-    box-shadow: 0 0 0 0 orange;
+    -webkit-box-shadow: 0 0 0 0 rgb(212 160 94);
+    box-shadow: 0 0 0 0 rgb(212 160 94);
   }
 }
 @keyframes tm-arrow-animation3 {
   0% {
-    -webkit-box-shadow: 0 0 0 0 orange;
-    box-shadow: 0 0 0 0 orange;
+    -webkit-box-shadow: 0 0 0 0 rgb(212 160 94);
+    box-shadow: 0 0 0 0 rgb(212 160 94);
   }
   50% {
-    -webkit-box-shadow: 0 0 0 7px orange;
-    box-shadow: 0 0 0 7px orange;
+    -webkit-box-shadow: 0 0 0 7px rgb(212 160 94);
+    box-shadow: 0 0 0 7px rgb(212 160 94);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 0 orange;
-    box-shadow: 0 0 0 0 orange;
+    -webkit-box-shadow: 0 0 0 0 rgb(212 160 94);
+    box-shadow: 0 0 0 0 rgb(212 160 94);
   }
 }
 .tm-purple-color #tm-preloader {

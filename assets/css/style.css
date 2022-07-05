@@ -5539,7 +5539,7 @@ a:active {
   top: -702px;
 }
 .single-accordian .accordian-body {
-  color: #ffffff;
+  color: black;
   line-height: 30px;
   font-size: 20px;
   padding: 20px 25px;
@@ -7062,7 +7062,7 @@ a:active {
 }
 .tm-gr-text {
   font-size: 20px;
-  color: #fff;
+  color: black;
   padding-left: 25px;
 }
 .tm-gr-single-text {
@@ -7584,13 +7584,13 @@ body.tm-purple-color {
 }
 .tm-purple-color .tm-btn:hover {
   color: rgb(212 160 94);
-  background-color: rgba(47, 5, 87, 0.8);
+  background-color: wheat;
 }
 .tm-purple-color .tm-with-border.tm-btn {
-  background-color: rgba(47, 5, 87, 0.75);
+  background-color: rgb(70 49 32);
 }
 .tm-purple-color .tm-with-border.tm-btn:hover {
-  background-color: rgba(47, 5, 87, 0.8);
+  background-color: wheat;
 }
 
 .tm-purple-color .tm-ethereum {
@@ -7622,10 +7622,11 @@ body.tm-purple-color {
 }
 .tm-purple-color .tm-site-header .tm-with-border.tm-btn {
   background-color: transparent;
-  color: rgb(212 160 94);
+  color: wheat;
 }
 .tm-purple-color .tm-site-header .tm-with-border.tm-btn:hover {
-  background-color: rgba(47, 5, 87, 0.75);
+  background-color: wheat;
+  color: black;
 }
 .tm-purple-color .tm-lenguage-dropdown {
   border: 1px solid rgb(212 160 94);
@@ -7748,7 +7749,7 @@ body.tm-purple-color {
   background-color: #1e0139;
 }
 .tm-purple-color .tm-roadmap-wrap {
-  background-color: #220240;
+  background-color: wheat;
   position: relative;
 }
 .tm-purple-color .tm-roadmap-text {
@@ -7842,7 +7843,7 @@ body.tm-purple-color {
   display: none;
 }
 .tm-purple-color .tm-token-wrap .tm-token-heading {
-  color: #fff;
+  color: black;
 }
 .tm-purple-color .tm-token-list {
   border-left: 1px solid rgb(212 160 94);
@@ -7873,7 +7874,7 @@ body.tm-purple-color {
   color: #fff;
 }
 .tm-purple-color .tab-content .tm-light-blue-c {
-  color: #46f2d4;
+  color: black;
 }
 .tm-purple-color .accordian-toggle {
   border: 2px solid rgb(212 160 94);
@@ -7890,7 +7891,7 @@ body.tm-purple-color {
   top: -702px;
 }
 .tm-purple-color .tm-site-footer {
-  background-color: #1e0139;
+  background-color: rgb(70 49 32);
 }
 .tm-purple-color .tm-copyright {
   text-align: center;
@@ -7958,10 +7959,10 @@ body.tm-purple-color {
   border: 1px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-faq-wrap > .tm-light-blue-c {
-  color: #fff;
+  color: black;
 }
 .tm-purple-color .tm-roadmap-wrap .tm-section-heading.tm-style2 h2 {
-  color: #46f2d4;
+  color: black;
 }
 .tm-purple-color
   .tm-section-heading.tm-style1.tm-color2
@@ -7995,11 +7996,11 @@ body.tm-purple-color {
   background: linear-gradient(rgb(212 160 94), transparent);
 }
 .tm-purple-color .tm-green-roadmap-text {
-  background-color: #240245;
+  background-color: rgb(212 160 94);
   border-top: 2px solid rgb(212 160 94);
 }
 .tm-purple-color .tm-gr-yr {
-  color: #46f2d4;
+  color: black;
 }
 .tm-purple-color .tm-gr-ball:before {
   background: #46f2d4;
